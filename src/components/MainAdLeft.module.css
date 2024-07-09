@@ -1,0 +1,27 @@
+.MainAdP {
+    color: #FFC222;
+    font-size: 20px;
+}
+
+.MainAdH1 {
+    width: 340px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 100px;
+    font-weight: 600;
+    line-height: 105px;
+    text-align: left;
+    z-index: 2;
+}
+
+.MainAdH3 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.MainAdLeftCss {
+    display: flex;
+    flex-direction: column;
+}

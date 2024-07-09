@@ -1,0 +1,8 @@
+.MainAdCss {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: url(./public/images/mainAdBack.jpeg);
+    background-size: cover;
+    isolation: isolate
+}

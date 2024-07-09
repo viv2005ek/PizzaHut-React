@@ -1,0 +1,44 @@
+.suggestionFoodCss {
+    background: #F5F8FD;
+    position: relative;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+.para {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+.icons {
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    padding-left: 100px;
+    margin-top: 50px;
+}
+
+.icons i {
+    font-size: 40px;
+    color: #CABFC1;
+}
+
+.fruit4 {
+    position: absolute;
+    top: 200px;
+}
+
+.fruit5 {
+    position: absolute;
+    top: 800px;
+    left: 400px
+}
+
+.fruit6 {
+    position: absolute;
+    top: 1200px;
+}

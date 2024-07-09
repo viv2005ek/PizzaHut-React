@@ -1,0 +1,53 @@
+.PopularItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.imgContainer {
+    width: 304.5px;
+    height: 312px;
+    border-radius: 14px;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.priceContainer {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.discount {
+    padding: 4px 5.13px 4px 6px;
+    border-radius: 3px;
+    background: #FFC222;
+}
+
+.actualPrice {
+    font-family: sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 28px;
+    text-decoration: line-through;
+}
+
+.newPrice {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.name {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 26px;
+}

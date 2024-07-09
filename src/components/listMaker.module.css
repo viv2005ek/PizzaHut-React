@@ -1,0 +1,13 @@
+.listItemP {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    color: black
+}
+
+.listMakerCss {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}

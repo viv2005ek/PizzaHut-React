@@ -1,0 +1,10 @@
+.posterCss {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+    margin-top: 100px;
+    position: relative;
+    top: 50px;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,44 @@
+.socialMediaCss {
+    display: flex;
+    width: 70%;
+    max-width: 1000px;
+    min-width: 700px;
+    justify-content: space-between;
+    border-top: 10px solid #FFD40D;
+    padding-top: 20px;
+}
+
+.socialMediaCssDiv {
+    display: flex;
+}
+
+.socialMediaCssDivP1 {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 26.67px;
+    color: #F3274C;
+}
+
+.socialMediaCssDivP2 {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 26.67px;
+}
+
+.socialMediaCssP3 {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 26.67px;
+    text-decoration: underline;
+}
+
+.socialMediaCssP4 {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 26.67px;
+    text-decoration: underline;
+}

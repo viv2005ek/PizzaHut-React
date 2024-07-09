@@ -1,0 +1,7 @@
+.logoContainer {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    position: relative;
+    left: -10px
+}

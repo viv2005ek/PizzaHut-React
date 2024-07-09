@@ -1,0 +1,10 @@
+.dropDown {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.dropDown select {
+    border-width: 0px;
+    pointer-events: none;
+}

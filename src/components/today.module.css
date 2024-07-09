@@ -1,0 +1,50 @@
+.todayCss {
+    background: url("./public/images/todayBack.jpeg");
+    background-size: cover;
+    min-height: 500px;
+    height: 55vh;
+    max-height: 800px;
+    position: relative;
+}
+
+.todayText {
+    position: relative;
+    margin-left: 20%;
+    top: 20%;
+}
+
+.todayCss p {
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 36.4px;
+    color: white;
+}
+
+.todayCss h1 {
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 67.2px;
+    color: white;
+}
+
+.todayCss h3 {
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46.8px;
+    color: #FFC222
+}
+
+.fruit7 {
+    position: absolute;
+    bottom: -60px;
+    left: 0;
+}
+
+.fruit8 {
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+}

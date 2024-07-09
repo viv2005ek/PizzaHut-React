@@ -1,0 +1,54 @@
+.posterLeftCss {
+    display: flex;
+    background-image: url("./public/images/posterLeftBack.png");
+    background-size: cover;
+    width: 600px;
+    height: 350px;
+    border-radius: 20px;
+    padding-left: 30px;
+    isolation: isolate;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+}
+
+.left p {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.4px;
+    color: #FFC222;
+    position: relative;
+    top: 20px
+}
+
+.left h2 {
+    font-family: sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 71.5px;
+    color: white;
+}
+
+.left img {
+    width: 181px;
+    position: relative;
+    top: -20px
+}
+
+.right .img1 {
+    width: 150px;
+    position: relative;
+    top: 20px
+}
+
+.right .img2 {
+    width: 300px;
+    z-index: -1;
+    position: relative;
+    left: -40px;
+    position: relative;
+    top: -20px
+}

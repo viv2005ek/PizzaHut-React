@@ -1,0 +1,16 @@
+.aboutCss {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: start;
+}
+
+.aboutCss h1 {
+    font-family: sans-serif;
+    font-size: 26px;
+    font-weight: 800;
+    line-height: 43.33px;
+    text-decoration: underline;
+    text-decoration-color: #FFC222;
+    text-decoration-thickness: 4px;
+}

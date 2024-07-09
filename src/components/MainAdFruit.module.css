@@ -1,0 +1,17 @@
+.fruit1 {
+    position: absolute;
+    top: 100px;
+    left: 0;
+}
+
+.fruit2 {
+    position: absolute;
+    top: 100px;
+    right: 0;
+}
+
+.fruit3 {
+    position: absolute;
+    top: 300px;
+    right: 100px;
+}

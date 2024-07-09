@@ -1,0 +1,26 @@
+.posterRightCss {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    width: 600px;
+    height: 350px;
+    position: relative;
+    background-image: url("./public/images/posterRightBack.png");
+    border-radius: 20px;
+}
+
+.img1 {
+    width: 250px;
+    align-self: end;
+}
+
+.img2 {
+    width: 350px;
+    padding-top: 10px;
+}
+
+.img3 {
+    position: absolute;
+    top: 0;
+    right: 150px;
+}
